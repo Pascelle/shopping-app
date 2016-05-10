@@ -28,6 +28,7 @@ $('.sc-list').on('click', '.sc-check', function () {
 			.css('text-decoration-color', '#444');
 	};
 	
+	});
 });
 
 	
